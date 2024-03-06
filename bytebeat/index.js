@@ -138,6 +138,9 @@ function numberToFloat(input, mode) {
     case "1024":
       outin = (input & 1023) / 511.5 - 1; // (x&1023)/511.5-1
       break;
+    case "1024":
+      outin = return input;
+    break;
     default:
       outin = (input & 255) / 127.5 - 1;
   }
