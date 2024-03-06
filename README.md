@@ -1,3 +1,3 @@
 # my website
 ## links
-[bytebeat editor](https://jan-ale.github.io/bytebeat)
+[bytebeat editor](https://hybhens.github.io/Bxtebeat)
